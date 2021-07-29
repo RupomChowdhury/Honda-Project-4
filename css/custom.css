@@ -1,0 +1,44 @@
+.featured-bike-img{
+    height: 243px;
+    width: 288px;
+}
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+.text-deco a{
+    text-decoration: none;
+    color: gainsboro;
+}
+.text-deco small{
+    text-decoration: none;
+    color: gainsboro;
+}
+.button-col{
+    padding: 9px 20px 9px 20px;
+    background-color: #E76F51;
+}
+.button-tp-col{
+    background-color: #E76F51;
+}
+.app-img{
+    width: 130px;
+    height: 50px;
+}
+.app-img2{
+    width: 180px;
+    height: 70px;
+}
+.form-man{
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
